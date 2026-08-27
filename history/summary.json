@@ -4,19 +4,21 @@
     "url": "https://gotipi.glynch.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gotipi.glynch.dev.ico",
     "slug": "primary-gotify-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 350,
-    "timeDay": 213,
-    "timeWeek": 311,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "78.75%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.88%",
+    "time": 349,
+    "timeDay": 113,
+    "timeWeek": 313,
     "timeMonth": 324,
-    "timeYear": 350,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2026-02-13": 37
+      "2026-02-13": 37,
+      "2026-08-27": 268,
+      "2026-08-26": 38
     }
   }
 ]
