@@ -5,20 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/gotipi.glynch.dev.ico",
     "slug": "primary-gotify-server",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 356,
-    "timeDay": 285,
-    "timeWeek": 342,
-    "timeMonth": 386,
-    "timeYear": 356,
+    "uptime": "99.56%",
+    "uptimeDay": "10.89%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.56%",
+    "time": 355,
+    "timeDay": 71,
+    "timeWeek": 307,
+    "timeMonth": 373,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2026-02-13": 37,
       "2026-08-27": 268,
-      "2026-08-26": 38
+      "2026-08-26": 38,
+      "2026-10-27": 266,
+      "2026-10-26": 1017
     }
   }
 ]
